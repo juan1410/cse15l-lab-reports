@@ -23,7 +23,7 @@
 
 ## STEP 3: Trying Some Commands
 - Next, after you have connected to a remote server, you can try running some commands using the terminal which should now look something like this:
-![Image](RemoteServer.png)
+![Image](RemoteServer1.png)
 - After the $, try typing in some of these commands and view the output of the terminal:
   - cd ~
   - cd
