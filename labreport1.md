@@ -2,7 +2,7 @@
 ## STEP 1: Installing VScode
 - First, you will need to download VScode at <https://code.visualstudio.com/> and follow the instructions.
 - When it is installed, go to VScode and open a new window which should look something similar to this: 
-![Image](VScode.png)
+![Image](VScode1.png)
 - You now have access to VS code!
 
 ## STEP 2: Remotely Connecting
