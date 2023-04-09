@@ -2,6 +2,7 @@
 ## STEP 1: Installing VScode
 - First, you will need to donwload VScode at <https://code.visualstudio.com/> and follow the instructions.
 - When it is installed, go to VScode and open a new window which should look something similar to this. 
+![Image](VScode.png)
 
 ## STEP 2: Remotely Connecting
 - First, in order to connect to a remote server, you will need to install git. Follow the instructions on <https://git-scm.com/downloads> to download git.
