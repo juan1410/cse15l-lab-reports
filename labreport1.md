@@ -8,7 +8,7 @@
 - Next, open a terminal in VScode by pressing on the Terminal dropdown and then pressing New Terminal.
 - Once you have opened a new terminal, it should look something like this.
 - After the $ character in the terminal, type in
-  > **ssh cse15lsp23zz@ieng6.ucsd.edu
+  > **ssh cse15lsp23zz@ieng6.ucsd.edu**
 - The **"zz"** that you notice is replaced with the letters in your specific course account.
 
 ## STEP 3: Trying Some Commands
