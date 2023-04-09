@@ -13,10 +13,10 @@
 - After the $ character in the terminal, type in
   > **ssh cse15lsp23zz@ieng6.ucsd.edu**
 - The **"zz"** that you notice should be replaced with the letters in your specific course account. If this is your first time loging in, your terminal might look something similar to this
-  > The authenticity of host 'ieng6-202.ucsd.edu (128.54.70.227)' can't be established.
-  > RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
-  > Are you sure you want to continue connecting (yes/no/[fingerprint])? 
-- Type yes and hit enter. Then your terminal should now ask for a password which is the password for your specific course account. Once you enter your password, your terminal should now look something similar to this:
+  > The authenticity of host 'ieng6-202.ucsd.edu (128.54.70.227)' can't be established.\
+  > RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.\
+  > Are you sure you want to continue connecting (yes/no/[fingerprint])?\
+- Type 'yes' and hit enter. Then your terminal should now ask for a password which is the password for your specific course account. Once you enter your password, your terminal should now look something similar to this:
 ![Image](Terminal.png)
 
 ## STEP 3: Trying Some Commands
