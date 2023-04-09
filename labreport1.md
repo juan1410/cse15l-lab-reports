@@ -8,7 +8,7 @@
 - Next, in order to connect to a remote server, you will need to install git. Follow the instructions on <https://git-scm.com/downloads> to download git.
 - Next, open a terminal in VScode by pressing on the Terminal dropdown and then pressing New Terminal.
 - Once you have opened a new terminal, it should look something like this:
-![Image](
+![Image](Terminal1.png)
 - After the $ character in the terminal, type in
   > **ssh cse15lsp23zz@ieng6.ucsd.edu**
 - The **"zz"** that you notice should be replaced with the letters in your specific course account. Your terminal should now ask for a password which should is the password for your specific course account. Once you enter your password, your terminal should now look something similar to this:
