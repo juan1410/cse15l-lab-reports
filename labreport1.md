@@ -18,6 +18,7 @@
   > Are you sure you want to continue connecting (yes/no/[fingerprint])?**
 - Type 'yes' and hit enter. Then your terminal should now ask for a password which is the password for your specific course account. Once you enter your password, your terminal should now look something similar to this:
 ![Image](Terminal.png)
+- You are now connected to a remote server!
 
 ## STEP 3: Trying Some Commands
 - 
