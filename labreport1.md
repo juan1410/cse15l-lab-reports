@@ -31,4 +31,6 @@
   - ls -a
   - cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 - Your terminal should now have different outputs depending on the command that you ran.
+  - Example of using ls -lat:
+  ![Image](Command.png)
 - Now, to log out of the remote server, you can type in 'exit' in the command on your terminal and you should now be logged out.
