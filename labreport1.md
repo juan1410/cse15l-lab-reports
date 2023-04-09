@@ -9,7 +9,7 @@
 - Once you have opened a new terminal, it should look something like this.
 - After the $ character in the terminal, type in
   > **ssh cse15lsp23zz@ieng6.ucsd.edu**
-- The **"zz"** that you notice is replaced with the letters in your specific course account.
+- The **"zz"** that you notice should be replaced with the letters in your specific course account.
 
 ## STEP 3: Trying Some Commands
 - 
