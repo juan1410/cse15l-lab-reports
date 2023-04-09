@@ -9,7 +9,7 @@
 - Next, in order to connect to a remote server, you will need to install git. Follow the instructions on <https://git-scm.com/downloads> to download git.
 - Next, open a terminal in VScode by pressing on the Terminal dropdown in the menu and then pressing New Terminal just like this:
 ![Image](OpeningTerminal.png)
-- Once you have opened a new terminal, it should look something similar to this:
+- Once you have opened a new terminal, you should get something similar to this:
 ![Image](Terminal1.png)
 - After the $ character in the terminal, type in
   > **ssh cse15lsp23zz@ieng6.ucsd.edu**
