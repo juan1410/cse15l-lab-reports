@@ -22,4 +22,13 @@
 - You are now connected to a remote server!
 
 ## STEP 3: Trying Some Commands
-- 
+- Next, after you have connected to a remote server, you can try running some commands using the terminal which should now look something like this:
+![Image](RemoteServer.png)
+- After the $, try typing in some of these commands and view the output of the terminal:
+  - cd ~
+  - cd
+  - ls -lat
+  - ls -a
+  - cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+- Your terminal should now have different outputs depending on the command that you ran.
+- Now, to log out of the remote server, you can type in 'exit' in the command on your terminal and you should now be logged out.
