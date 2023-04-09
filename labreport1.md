@@ -1,4 +1,4 @@
-# Remote access
+# Lab Report 1- Remote access
 ## STEP 1: Installing VScode
 - First, you will need to download VScode at <https://code.visualstudio.com/> and follow the instructions.
 - When it is installed, go to VScode and open a new window which should look something similar to this. 
