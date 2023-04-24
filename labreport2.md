@@ -1,5 +1,6 @@
 ## Part 1
-StringServer
+Code for web server, StringServer:
+
 
 ## Part 2
 
