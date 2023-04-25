@@ -32,12 +32,12 @@ public void testReverseInPlace2(){
 
 Input without a failure:
 ```
-	public void testReverseInPlace() {
-    int[] input1 = {5};
-    ArrayExamples.reverseInPlace(input1);
-    int[] input2 = {5};
-    assertArrayEquals(input2, input1);
-	}
+public void testReverseInPlace(){
+  int[] input1 = {5};
+  ArrayExamples.reverseInPlace(input1);
+  int[] input2 = {5};
+  assertArrayEquals(input2, input);
+}
 ```
 
 
