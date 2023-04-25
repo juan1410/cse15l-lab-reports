@@ -37,8 +37,9 @@
   - Example of using ls -s:
   ![Image](Command2.png)
     - From this image, we are using the command 'ls -s' which prints the allocated size of each file in the current directory.
+   
   - Example of using cat :
- ![Image](Command3.png)
+  - ![Image](Command3.png)
     - From this image, we are using the command 'cat hello.txt' which prints the contents of the file 'hello.txt'.
     - 'Cat' is used to print the context of a file that is given after it.
 
