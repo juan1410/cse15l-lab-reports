@@ -19,7 +19,13 @@ Using /add-message:
 - The value of "str" before this method was called was "Good Morning" with a new line after it. However, after calling this method, "Hello" was concated with str but since there was a new line created with the previous request, "Hello" was given to a new line under "Good Morning". However, "Hello" was also concated with a "\n" at the end, therefore creating a new line after it. Therefore, the new "str" value was "Good Morning" and then "Hello" in a new line and a new line after "Hello".
 
 
+
 ## Part 2
+'public void testReverseInPlace2(){
+  int[] input = {10, 15, 20};
+  ArrayExamples.reverseInPlace(input);
+  assertArrayEquals(new int[] {20, 15, 10}, input);
+}'
 
 
 ## Part 3
