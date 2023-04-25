@@ -42,7 +42,7 @@ public void testReverseInPlace(){
 ```
 
 Symptom:
-![Image](symptom.png)
+![Image](Symptom.png)
 
 
 Before code change:
