@@ -21,12 +21,23 @@ Using /add-message:
 
 
 ## Part 2
+Failure-Inducing input:
 ```
 public void testReverseInPlace2(){
   int[] input = {10, 15, 20};
   ArrayExamples.reverseInPlace(input);
   assertArrayEquals(new int[] {20, 15, 10}, input);
 }
+```
+
+Input without a failure:
+```
+	public void testReverseInPlace() {
+    int[] input1 = {5};
+    ArrayExamples.reverseInPlace(input1);
+    int[] input2 = {5};
+    assertArrayEquals(input2, input1);
+	}
 ```
 
 
