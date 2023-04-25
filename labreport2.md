@@ -21,10 +21,10 @@ Using /add-message:
 
 
 ## Part 2
-`public void testReverseInPlace2(){
-  int[] input = {10, 15, 20};
-  ArrayExamples.reverseInPlace(input);
-  assertArrayEquals(new int[] {20, 15, 10}, input);
+`public void testReverseInPlace2(){\
+  int[] input = {10, 15, 20};\
+  ArrayExamples.reverseInPlace(input);\
+  assertArrayEquals(new int[] {20, 15, 10}, input);\
 }`
 
 
