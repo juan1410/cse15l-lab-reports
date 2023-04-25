@@ -69,4 +69,4 @@ static void reverseInPlace(int[] arr) {
 
 
 ## Part 3
-
+During lab in week2 and week3, I learned many new things. However, something I found really interesting and helfpul was using GitHub Desktop. As I made changes within my code in VS Code, I was also able to present these changes in GitHub as well by using commit and push. First my changes appeared on GitHub Desktop. Then I was able to commit these changes and then push them. After this was done, my changes were now visible in my repository on GitHub. I was also able to learn the differnce between a failure inducing input, a bug, and a symptom.
