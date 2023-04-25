@@ -40,6 +40,32 @@ public void testReverseInPlace(){
 }
 ```
 
+Symptom:
+![Image](symptom.png)
+
+
+Before code change:
+```
+static void reverseInPlace(int[] arr) {
+  for(int i = 0; i < arr.length; i += 1) {
+    arr[i] = arr[arr.length - i - 1];
+  }
+}
+```
+After code change:
+```
+static void reverseInPlace(int[] arr) {
+  for(int i = 0; i < arr.length/2; i += 1) {
+    int num = arr[i];
+    arr[i] = arr[arr.length - i - 1];
+    arr[arr.length - i - 1] = num;
+  }
+}
+```
+- The fix being presented in the after code change helps fix the issue. First we changed the loop for it to only run half of the array's length. Then we assigned 'num' to contain the reference of the element at index 'i'. After we assign the element at index 'i' to be the element at index[arr.length - 'i' - 1], which is what was done in the before code as well. However, this time we assign the element at index[arr.length - 'i' - 1] to be the element that was stored at num, which was the reference, to the element at index 'i'. Therefore, the elements at index 'i' and index[arr.length - 'i' - 1] are being switched. And since we assign the second half and first half of the array in one loop, we do not need to loop through the full length of the array but instead just half, which is why we changed the loop to run arr.length/2 times.
+
+
+
 
 ## Part 3
 
