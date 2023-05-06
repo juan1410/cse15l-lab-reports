@@ -15,7 +15,7 @@ government/Media
 ```
    - The maxdepth command takes a postive integer n as an argument and descends at most n directory levels. Therefore, since we called -maxdepth with 1, it only descended to the directories in the government directory but did not descend into each directory.
 
-**- Second Example:
+**- Second Example:**
 ```
 Juans-MacBook-Pro:technical juan$ find plos -maxdepth 0
 plos
@@ -24,7 +24,7 @@ plos
   - Found useful information about maxdepth using the man find command at the terminal.
 
 ### Command 2: -type
-**- First Example:
+**- First Example:**
 ```
 Juans-MacBook-Pro:technical juan$ find government -type d
 government
