@@ -69,7 +69,7 @@ plos
 ```
    - The prune command takes no argument. However, the prune command causes for find to not descend into the current file. Therefore, the only given output was the file given as an argument for find.
 
-- **Second Example:**
+**- Second Example:**
 ```
 Juans-MacBook-Pro:technical juan$ find biomed -prune
 biomed
