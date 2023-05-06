@@ -2,7 +2,7 @@
 
 ## Find Command
 ### Command 1: -maxdepth
-**- First Example :
+**- First Example :**
 ```
 Juans-MacBook-Pro:technical juan$ find government -maxdepth 1
 government
