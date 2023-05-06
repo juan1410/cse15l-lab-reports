@@ -37,7 +37,7 @@ government/Media
 ```
   - The type command takes a specific letter which describes a file type and descends the those types of files. In our argument with -type, we put d as the file type which refers to directory. Therefore the government directory descended the file types that are directories.
 
--Second Example:
+- Second Example:
 ```
 Juans-MacBook-Pro:technical juan$ find 911report -type f
 911report/chapter-13.4.txt
@@ -102,7 +102,7 @@ Juans-MacBook-Pro:technical juan$ find 911report -ls
 ```
   - The ls command takes no argument as well. However, the ls command gives information of the given files such as its inode number, size, file permissions, owner, last modification, and pathname.
  
--Second Example:
+- Second Example:
 ```
 Juans-MacBook-Pro:technical juan$ find government -maxdepth 1 -ls
 24648262        0 drwxr-xr-x    8 juan             staff                 256 Apr 27 10:25 government
@@ -114,4 +114,4 @@ Juans-MacBook-Pro:technical juan$ find government -maxdepth 1 -ls
 24648393        0 drwxr-xr-x  147 juan             staff                4704 Apr 27 10:25 government/Media
 ```
   - Similar to the first example, the ls command gave information about the given files. However, in this example, we used the command -maxdepth as well which we already discussed about. Since we only went to the directoriese in the government directory, the ls command only applied to those directories. Therefore, from our output we can see information about the directories within the government directory. The ls command can be useful when one is trying to find useful and important information about a specific file.
-  - Found info about ls command using man find in the terminal and at <https://www.redhat.com/sysadmin/linux-find-command> 
+  - Found information about ls command using man find in the terminal and at <https://www.redhat.com/sysadmin/linux-find-command> 
