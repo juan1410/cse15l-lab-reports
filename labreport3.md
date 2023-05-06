@@ -37,7 +37,7 @@ government/Media
 ```
    - The type command takes a specific letter which describes a file type and descends the those types of files. In our argument with -type, we put d as the file type which refers to directory. Therefore the government directory descended the file types that are directories.
 
-**- Second Example:
+**- Second Example:**
 ```
 Juans-MacBook-Pro:technical juan$ find 911report -type f
 911report/chapter-13.4.txt
@@ -62,14 +62,14 @@ Juans-MacBook-Pro:technical juan$ find 911report -type f
   - Found information of the type command using the man find command at the terminal.
 
 ### Command 3: -prune
-**- First Example:
+**- First Example:**
 ```
 Juans-MacBook-Pro:technical juan$ find plos -prune
 plos
 ```
    - The prune command takes no argument. However, the prune command causes for find to not descend into the current file. Therefore, the only given output was the file given as an argument for find.
 
-**- Second Example:
+**- Second Example:**
 ```
 Juans-MacBook-Pro:technical juan$ find biomed -prune
 biomed
@@ -78,7 +78,7 @@ biomed
   - Found information about the prune command at the terminal using the man find command.
 
 ### Command 4: -ls
-**- First Example:
+**- First Example:**
 ```
 Juans-MacBook-Pro:technical juan$ find 911report -ls
 24647405        0 drwxr-xr-x   19 juan             staff                 608 Apr 27 10:25 911report
@@ -102,7 +102,7 @@ Juans-MacBook-Pro:technical juan$ find 911report -ls
 ```
    - The ls command takes no argument as well. However, the ls command gives information of the given files such as its inode number, size, file permissions, owner, last modification, and pathname.
  
-**- Second Example:
+**- Second Example:**
 ```
 Juans-MacBook-Pro:technical juan$ find government -maxdepth 1 -ls
 24648262        0 drwxr-xr-x    8 juan             staff                 256 Apr 27 10:25 government
