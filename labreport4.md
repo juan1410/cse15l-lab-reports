@@ -15,10 +15,12 @@
 
 ## Step 4: Edit the code file to fix the failing test
 ![Image](Step4.png)
-
+- Keys Pressed: _<**Ctrl-R**><**v**><**enter**><**x**><**i**><<**2**><**esc**><**Shift-; + w + q**><**enter**>_
+- 
 
 ## Step 5: Run the test, demonstrating that they now succeed
 ![Image](Step5.png)
+- Keys pressed: _<**up**><**up**><**enter**>_
 
 
 ## Step 6: Commit and push the resulting changes to your Github account
