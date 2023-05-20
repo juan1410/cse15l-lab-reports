@@ -10,7 +10,8 @@
 
 ## Step 3: Run the tests, demonstrating that they failed
 ![Image](Step3.png)
-
+- Keys Pressed: _<**Ctrl-R**><**cd**><**enter**><**Ctrl-R**><**ba**><**enter**>
+- First, I wanted to go into the lab7 directory. So I used Ctrl-R and then typed the letters 'cd' which gave the result of _**cd lab7**_ from my search history. Then I pressed enter to go into the lab7 directory. Once I was in the directory, I pressed Ctrl-R one more time and type the letters 'ba' which gave me the result of _**bash test.sh**_ from my search history. Then I pressed enter to run the tests.
 
 ## Step 4: Edit the code file to fix the failing test
 ![Image](Step4.png)
