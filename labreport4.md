@@ -18,12 +18,12 @@
 
 ![Image](Step4.2.png)
 - Keys Pressed: _<**Ctrl-R**><**v**><**enter**><**x**><**i**><<**2**><**esc**><**Shift-; + w + q**><**enter**>_
-- 
+- First, I pressed Ctrl-R and then typed the letter 'v' which gave me the result of _**vim ListExamples.java**_ from my search history. Then I pressed enter to go to vim mode. Then vim mode already had my cursor at the character which I wanted to edit. Therefore, I just pressed the 'x' key to delete the character which was '1'. Then, I pressed the letter 'i' to go into insert mode and then pressed '2' to fix the code. After I fixed it, I pressed the escape key and pressed Shift-; to type the ':' key along with 'w' and 'q' to be able to save the edits and exit vim mode. After that, I pressed enter to do so.
 
 ## Step 5: Run the test, demonstrating that they now succeed
 ![Image](Step5.png)
 - Keys pressed: _<**up**><**up**><**enter**>_
-
+- The _**bash test.sh**_ command was 2 up in my search history. Therefore, I just pressed the up arrow twice and then hit enter to run the tests again.
 
 ## Step 6: Commit and push the resulting changes to your Github account
 ![Image](Step6.png)
