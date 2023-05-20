@@ -6,7 +6,7 @@
 ## Step 2: Clone your fork of the repository from your Github account
 ![Image](2Step.png)
 - Keys Pressed: _<**Ctrl-R**><**g**><**Ctrl-E**><**SpaceBar**><**Command-V**><**enter**>_
-- The _**git clone**_ command was already in my search history. So I used Ctrl-R and then typed the letter 'g' which gave me the result of git clone. Then I pressed Ctrl-E to go to the end of the line. After that I pressed the spacebar and then pressed Command-V to paste the URL of my repository. Then I hit enter to clone the repository from my Github account.
+- The _**git clone**_ command was already in my search history. So I used Ctrl-R and then typed the letter 'g' which gave me the result of git clone. Then I pressed Ctrl-E to go to the end of the line. After that I pressed the spacebar and then pressed Command-V to paste the SSH of my repository. Then I hit enter to clone the repository from my Github account.
 
 ## Step 3: Run the tests, demonstrating that they failed
 ![Image](3Step.png)
