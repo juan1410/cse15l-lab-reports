@@ -28,4 +28,4 @@
 ## Step 6: Commit and push the resulting changes to your Github account
 ![Image](6Step.png)
 - Keys pressed: _<**Ctrl-R**><**git co**><**enter**><**Ctrl-R**><**git p**><**enter**>_
-- First, I pressed Ctrl-R and typed in 'git co' which gave me the result of _**git commit -am "changes"**_ from my search history. Then I hit enter to commitn the changes that were done. Then I pressed Ctrl-R again and typed 'git p' which autofilled to _**git push**_ from my search history. Then I pressed enter again to push these changes to my Github account.
+- First, I pressed Ctrl-R and typed in 'git co' which gave me the result of _**git commit -am "changes"**_ from my search history. Then I hit enter to commit the changes that were done. Then I pressed Ctrl-R again and typed 'git p' which autofilled to _**git push**_ from my search history. Then I pressed enter one more time to push these changes to my Github account.
