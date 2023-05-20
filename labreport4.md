@@ -1,11 +1,12 @@
 ## Step 1: Log into ieng6
 ![Image](Step1.png)
 - Keys Pressed: _<**up**><**up**><**enter**>_ 
-- The ssh cs15lsp23gq@ieng6.ucsd.edu command was 2 up in my search history, so I used the up arrow twice to access it and log into ieng6.
+- The _ssh cs15lsp23gq@ieng6.ucsd.edu_ command was 2 up in my search history, so I used the up arrow twice to access it and log into ieng6.
 
-## Step 2: Clone your fork into of the repository from your Github account
+## Step 2: Clone your fork of the repository from your Github account
 ![Image](Step2.png)
-
+- Keys Pressed: _<**Ctrl-R**><**g**><**Ctrl-E**><**SpaceBar**><**Command-V**><**enter**>_
+- The _git clone_ command was already in my search history. So I used Ctrl-R and then typed the letter 'g' which gave me the result of git clone. Then I pressed Ctrl-E to go to the end of the line. After that I pressed the spacebar and then pressed Command-V to paste the URL of my repository. Then I hit enter to clone the repository from my Github account.
 
 ## Step 3: Run the tests, demonstrating that they failed
 ![Image](Step3.png)
