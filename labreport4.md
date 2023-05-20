@@ -15,6 +15,7 @@
 
 ## Step 4: Edit the code file to fix the failing test
 ![Image](Step4.png)
+
 ![Image](Step4.2.png)
 - Keys Pressed: _<**Ctrl-R**><**v**><**enter**><**x**><**i**><<**2**><**esc**><**Shift-; + w + q**><**enter**>_
 - 
