@@ -1,5 +1,5 @@
 ## Step 1: Log into ieng6
-![Image](1Step.png)
+![Image](Step1.png)
 - Keys Pressed: _<**up**><**up**><**enter**>_ 
 - The _**ssh cs15lsp23gq@ieng6.ucsd.edu**_ command was 2 up in my search history, so I used the up arrow twice to access it and log into ieng6.
 
