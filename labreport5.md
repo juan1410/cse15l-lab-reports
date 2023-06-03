@@ -1,8 +1,9 @@
 # Lab Report 5
-## Edstem Post
+## Part 1
+### Edstem Post
 
-## Response From TA
+### Response From TA
 
-## Screenshot/Terminal Output
+### Screenshot/Terminal Output
 
-## Information needed about setup
+### Information needed about setup
