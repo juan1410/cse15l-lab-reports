@@ -22,8 +22,20 @@ There were 2 bugs in the code. The first one was that the second line in the bas
 
 ### Information needed about setup
 - **File and directory structure needed**
+    - Files needed: ArrayTests and run.sh
+    - Directory structure: Lab 3 directory with the neccesary files
+    ![Image](Files.png)
 - **Content of each file before fixing the bug**
+    ![Image](Contents.png)
+    ![Image](Bash.png)
 - **The full command line that triggered the bug**
+    - The command line was _**'bash run.sh'**_ where the bashscript run.sh looked like:
+    ![Image](Bash.png)
 - **Description of what to edit to fix the bug**
-
+    - In order to fix the first bug, we had to edit the second line in the bash script _**run.sh**_ by adding 'org.junit.runner.JUnitCore' before ArrayTests.
+    - To fix the second bug, we had to add a space between the first two brackets and the '-f' command in the 4th line with the if statament.
+    - File of bash script fixed:
+        ![Image](Fixed.png)
+   
 ## Part 2 - Reflection
+
