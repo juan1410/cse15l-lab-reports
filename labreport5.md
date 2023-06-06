@@ -41,4 +41,4 @@ There were 2 bugs in the code. The first one was that the second line in the bas
         ![Image](Output.png)
    
 ## Part 2 - Reflection
-
+From my lab experiences in the second half of the quarter, I learned how to use bash script much more efficiently. This was very helpful as using a bash script is useful when using large commands or a large amount of commands. I also found Vim to be very helfpul and efficient as it can be very helpful when editing a file. Overall, this second half of the quarter I was able to use the command line much more efficiently and in a useful manner which would definitely help me in future courses.
