@@ -2,7 +2,7 @@
 ## Part 1 - Debug Scenario
 ### Edstem Post
 - _**What environment are you using?**_
-    - VS Code
+    - I am using the VS Code terminal on a macbook.
 - _**Detail the symptom you're seeing. Include both what you're seeing and what you expected to see.**_
 - _**Detail the failure-inducing input and context**_
 
