@@ -4,7 +4,7 @@
 - _**What environment are you using?**_
     - I am using the VS Code terminal on a macbook.
 - _**Detail the symptom you're seeing. Include both what you're seeing and what you expected to see.**_
-    ![Image](Symptom.png)
+    ![Image](Symptoml5.png)
     ![Image](Bash.png)
     - I am expecting to see the file ArrayTests to be graded by Junit but is instead saying that their is not a main method in the file ArrayTests. I am also expecting for the bash script to print out "File was found!" since the file exists but am getting an error saying that a specfic command in the bash script is not found.
 - _**Detail the failure-inducing input and context**_
