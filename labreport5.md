@@ -1,10 +1,10 @@
 # Lab Report 5
 ## Part 1 - Debug Scenario
 ### Edstem Post
-- **What environment are you using?**
+- _**What environment are you using?**_
     - VS Code
-- **Detail the symptom you're seeing. Include both what you're seeing and what you expected to see.**
-- **Detail the failure-inducing input and context**
+- _**Detail the symptom you're seeing. Include both what you're seeing and what you expected to see.**_
+- _**Detail the failure-inducing input and context**_
 
 ### Response From TA
 
