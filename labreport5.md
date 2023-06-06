@@ -37,7 +37,7 @@ There were 2 bugs in the code. The first one was that the second line in the bas
     - File of bash script fixed:
         ![Image](Fixed.png)
     - Correct Output:
-        ![Image](Correct.png)
+        ![Image](Output.png)
    
 ## Part 2 - Reflection
 
