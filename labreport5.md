@@ -1,6 +1,8 @@
 # Lab Report 5
 ## Part 1 - Debug Scenario
 ### Edstem Post
+- What environment are you using?
+    - VS Code
 
 ### Response From TA
 
