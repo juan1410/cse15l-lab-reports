@@ -17,7 +17,7 @@ You must have a space between the first brackets and the first command in the if
 
 ### Screenshot/Terminal Output
 ![Image](Output.png)
-There were 2 bugs in the code. The first one was that the second line in the bash script did not contain the 'org.junit.runner.JUnitCore' which is needed to use Junit. The second bug was that the '-f' and the first two brackets in the if statement had no space between which considered all of this as part of a command.
+There were 2 bugs in the code. The first one was that the second line in the bash script did not contain the 'org.junit.runner.JUnitCore' which is needed to use Junit. The second bug was that the '-f' and the first two brackets in the if statement had no space between each other which considered all of this as part of a command.
 
 ### Information needed about setup
 - **File and directory structure needed**
