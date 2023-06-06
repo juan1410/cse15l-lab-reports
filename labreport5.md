@@ -13,8 +13,11 @@
 ### Response From TA
 Thanks for the details.
 View how the first 2 lines in your bash script differ from here <https://ucsd-cse15l-s23.github.io/week/week3/#setup> 
+You must have a space between the first brackets and the first command in the if statement as VS Code would consider the brackets as part of the command if there is no space in between.
 
 ### Screenshot/Terminal Output
+![Image](Output.png)
+There were 2 bugs in the code. The first one was that the second line in the bash script did not contain the 'org.junit.runner.JUnitCore' which is needed to use Junit. The second bug was that the '-f' and the first two brackets in the if statement had no space between which considered all of this as part of a command.
 
 ### Information needed about setup
 - **File and directory structure needed**
