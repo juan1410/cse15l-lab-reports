@@ -36,6 +36,8 @@ There were 2 bugs in the code. The first one was that the second line in the bas
     - To fix the second bug, we had to add a space between the first two brackets and the '-f' command in the 4th line with the if statament.
     - File of bash script fixed:
         ![Image](Fixed.png)
+    - Correct Output:
+        ![Image](Correct.png)
    
 ## Part 2 - Reflection
 
